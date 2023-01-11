@@ -1,4 +1,4 @@
-package FactoryMethod;
+package FactoryMethod.Button;
 
 public class DesktopButton extends Button {
   @Override
